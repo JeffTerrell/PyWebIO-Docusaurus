@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpy_web_io_blog=self.webpackChunkpy_web_io_blog||[]).push([[7901],{6615:function(e){e.exports=JSON.parse('{"allTagsPath":"/PyWebIO-Docusaurus/blog/tags","name":"welcome","count":1,"permalink":"/PyWebIO-Docusaurus/blog/tags/welcome"}')}}]);
