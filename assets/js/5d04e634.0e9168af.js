@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpy_web_io_blog=self.webpackChunkpy_web_io_blog||[]).push([[4640],{5276:function(e){e.exports=JSON.parse('{"allTagsPath":"JeffTerrell/PyWebIO-Docusaurus/tree/gh-pages/blog/tags","name":"PyWebIO","count":1,"permalink":"JeffTerrell/PyWebIO-Docusaurus/tree/gh-pages/blog/tags/py-web-io"}')}}]);
