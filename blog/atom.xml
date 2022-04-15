@@ -2,11 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jeffterrell.github.io/PyWebIO-Docusaurus/blog</id>
     <title>PyWebIO Blog</title>
-    <updated>2022-03-29T00:00:00.000Z</updated>
+    <updated>2022-04-15T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://jeffterrell.github.io/PyWebIO-Docusaurus/blog"/>
     <subtitle>PyWebIO Blog</subtitle>
     <icon>https://jeffterrell.github.io/PyWebIO-Docusaurus/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Pyweb.io Tutorial]]></title>
+        <id>testing-image</id>
+        <link href="https://jeffterrell.github.io/PyWebIO-Docusaurus/blog/testing-image"/>
+        <updated>2022-04-15T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Testing image for tutorial]]></summary>
+        <content type="html"><![CDATA[<h3 class="anchor anchorWithStickyNavbar_mojV" id="a-tutorial">A tutorial<a class="hash-link" href="#a-tutorial" title="Direct link to heading">​</a></h3><hr><p><img loading="lazy" alt="PyWebIO Getting Started" src="/PyWebIO-Docusaurus/assets/images/khuyen_tran_getting_started-2b8881cef871d4d6e59da7197a46246b.png" width="660" height="495" class="img_E7b_"></p><h3 class="anchor anchorWithStickyNavbar_mojV" id="pywebio-write-interactive-web-app-in-script-way-using-python">PyWebIO: Write Interactive Web App in Script Way Using Python<a class="hash-link" href="#pywebio-write-interactive-web-app-in-script-way-using-python" title="Direct link to heading">​</a></h3><h4 class="anchor anchorWithStickyNavbar_mojV" id="by-khuyen-tran">by Khuyen Tran<a class="hash-link" href="#by-khuyen-tran" title="Direct link to heading">​</a></h4><ul><li>pip command to install PyWebIO</li><li>Input &amp; output modules</li><li>Two sample apps</li></ul><p><a href="https://towardsdatascience.com/pywebio-write-interactive-web-app-in-script-way-using-python-14f50155af4e" target="_blank" rel="noopener noreferrer"><img loading="lazy" src="https://dabuttonfactory.com/button.png?t=Read&amp;f=Open+Sans-Bold&amp;ts=26&amp;tc=fff&amp;hp=45&amp;vp=20&amp;c=11&amp;bgt=unicolored&amp;bgc=c0b07e" alt="button" class="img_E7b_"></a></p><p>Happy Coding!</p>]]></content>
+        <author>
+            <name>Jeff Terrell</name>
+            <uri>https://github.com/JeffTerrell</uri>
+        </author>
+        <author>
+            <name>Hannah Young</name>
+            <uri>https://github.com/Corgibyte</uri>
+        </author>
+        <category label="setup" term="setup"/>
+        <category label="PyWebIO" term="PyWebIO"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Cloud Deployment]]></title>
         <id>cloud-deployment</id>
