@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://jeffterrell.github.io/PyWebIO-Docusaurus/my-second-blog</id>
+    <title>PyWebIO Blog</title>
+    <updated>2022-04-22T05:28:49.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://jeffterrell.github.io/PyWebIO-Docusaurus/my-second-blog"/>
+    <subtitle>PyWebIO Blog</subtitle>
+    <icon>https://jeffterrell.github.io/PyWebIO-Docusaurus/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[intro]]></title>
+        <id>/intro</id>
+        <link href="https://jeffterrell.github.io/PyWebIO-Docusaurus/my-second-blog/intro"/>
+        <updated>2022-04-22T05:28:49.000Z</updated>
+        <summary type="html"><![CDATA[This is the PyWeb intro]]></summary>
+        <content type="html"><![CDATA[<h3 class="anchor anchorWithStickyNavbar_mojV" id="this-is-the-pyweb-intro">This is the PyWeb intro<a class="hash-link" href="#this-is-the-pyweb-intro" title="Direct link to heading">​</a></h3>]]></content>
+    </entry>
+</feed>

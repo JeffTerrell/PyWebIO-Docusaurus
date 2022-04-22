@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpy_web_io_blog=self.webpackChunkpy_web_io_blog||[]).push([[9932],{4009:function(e){e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"intro","permalink":"/PyWebIO-Docusaurus/my-second-blog/intro"}]}')}}]);
